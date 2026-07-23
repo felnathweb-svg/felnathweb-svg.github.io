@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.felnathweb_svg.twa",
+        "sha256_cert_fingerprints": ["6C:D4:E9:78:EF:CA:D6:33:92:EC:48:6D:90:DC:54:43:D9:44:1E:0A:28:27:6B:35:03:F3:89:B2:04:77:AB:3E"]
+      }
+    }]
